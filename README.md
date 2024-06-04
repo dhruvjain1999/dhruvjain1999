@@ -3,7 +3,6 @@
 🔭 I’m currently looking 👀 for work realted to data science or Advance machinea learning.  
 
 # 💫 About Me:
-PROFESSIONAL SUMMARY______________________________________________________________________________________<br>
 Dedicated and results-driven data professional with extensive experience in leveraging data to drive decision-making and business impact. Proven track record in data analysis, statistical modeling, and machine learning to deliver actionable insights. Adept at using Python, R, and various data visualization tools to solve complex problems. Demonstrated ability to work collaboratively with cross-functional teams and communicate technical information effectively to non-technical stakeholders. Passionate about continuous learning and staying updated with industry trends.<br>
 
 Currently serving as Vice President of the American Statistical Association Data Science Club at American University, where I lead a 13-member team, secure funding, and implement innovative strategies to surpass attendance goals and improve operational efficiency. Seeking to contribute expertise in data architecture and analysis to a forward-thinking organization.<br>
@@ -26,11 +25,3 @@ Currently serving as Vice President of the American Statistical Association Data
 [![](https://visitcount.itsvg.in/api?id=dhruvjain1999&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
