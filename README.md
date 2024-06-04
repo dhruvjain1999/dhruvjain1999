@@ -1,12 +1,12 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Catalin Pit!
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Dhruv Jain !
 
-🔭 I’m currently working on [@documenso](https://github.com/documenso/documenso)
+🔭 I’m currently looking 👀 for work realted in data science or Advance machinea learning.  
 
-🧰 I use `TypeScript`, `React/Next.js`, `PostgreSQL`, `TailwindCSS`, `Prisma`
+🧰 I use `Python`, `R/Rstudio`, `SQL`, `Tablue`
 
-⏮️ Previously also worked with: `Node.js` and `tRPC`
+⏮️ Previously also worked in medical and finacial indusires 
 
-📫 How to reach me: `me [@] catalins [dot] tech`
+📫 How to reach me: `dj9304a@american.edu`
 <!--
 **dhruvjain1999/dhruvjain1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
