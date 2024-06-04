@@ -1,5 +1,12 @@
-## Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Catalin Pit!
 
+🔭 I’m currently working on [@documenso](https://github.com/documenso/documenso)
+
+🧰 I use `TypeScript`, `React/Next.js`, `PostgreSQL`, `TailwindCSS`, `Prisma`
+
+⏮️ Previously also worked with: `Node.js` and `tRPC`
+
+📫 How to reach me: `me [@] catalins [dot] tech`
 <!--
 **dhruvjain1999/dhruvjain1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
