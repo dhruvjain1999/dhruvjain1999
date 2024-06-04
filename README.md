@@ -28,9 +28,10 @@ Here are some ideas to get you started:
 sasa
 
 # 💫 About Me:
-PROFESSIONAL SUMMARY______________________________________________________________________________________<br>• M.S., Data Science, American University, 2024<br>• 3 yrs. of experience in model development in Python/RStudio.<br>
-Volunteer ________________________________________________________________________________________________<br>Vice President, American statistical association, Data science club Aug 2022 - present<br>American university, Washington DC<br>• Headed and supervised a 13-member team, coordinating tasks and hosting monthly STEM community conversations on Teams <br>platform, encouraging participation and educational discourse.<br>• I secure $5,000+ annually from various channels to fund club initiatives, enabling the purchase of badges, laptop stickers, pens, <br>event refreshments, and other essentials.<br>• Surpassed attendance goals by 75% for club seminars and events through the introduction of innovative marketing strategies, <br>demonstrating measurable success.<br>• Reduced supervision time by 50% through the implementation of an efficient workflow, ensuring operational continuity during <br>my absence.<br>• Highlighted effective communication skills 
+PROFESSIONAL SUMMARY______________________________________________________________________________________<br>
+Dedicated and results-driven data professional with extensive experience in leveraging data to drive decision-making and business impact. Proven track record in data analysis, statistical modeling, and machine learning to deliver actionable insights. Adept at using Python, R, and various data visualization tools to solve complex problems. Demonstrated ability to work collaboratively with cross-functional teams and communicate technical information effectively to non-technical stakeholders. Passionate about continuous learning and staying updated with industry trends.
 
+Currently serving as Vice President of the American Statistical Association Data Science Club at American University, where I lead a 13-member team, secure funding, and implement innovative strategies to surpass attendance goals and improve operational efficiency. Seeking to contribute expertise in data architecture and analysis to a forward-thinking organization.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dhruv-jain-09182a169/) 
