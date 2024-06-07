@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Dhruv Jain !
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Dhruv Jain (Data scientist)!
 
 🔭 I’m currently looking 👀 for work realted to data science or Advance machinea learning.  
 
